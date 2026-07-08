@@ -1,0 +1,11 @@
+TOP10 单词:
+the:8次
+fox:4次
+dog:4次
+lazy:3次
+fast:3次
+quick:2次
+runs:2次
+and:2次
+is:2次
+brown:1次
